@@ -1,0 +1,3 @@
+What is the difference between availability, fault-tolerance, and reliability?
+How is availability measured using MTBF and MTTR? ​
+What do the "9s" in availability measures represent, and how do they impact downtime?
