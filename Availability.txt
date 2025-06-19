@@ -1,3 +1,9 @@
+// Trần Anh Thái
 What is the difference between availability, fault-tolerance, and reliability?
 How is availability measured using MTBF and MTTR? ​
 What do the "9s" in availability measures represent, and how do they impact downtime?
+
+// Vũ Hà Ninh
+If my system has 99.99% availability, does that mean it will never go down?
+What’s the difference between a system that crashes completely and one that keeps running but gives wrong results?
+If something breaks in my system, how does it know what to do next?
